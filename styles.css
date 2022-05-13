@@ -1,0 +1,22 @@
+html{
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    background-color: transparent;
+    border: 2px solid;
+    margin: 1rem;
+    padding: .5rem 1rem;
+    border-color: aquamarine;
+}
